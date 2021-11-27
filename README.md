@@ -3,7 +3,7 @@
 ## About Me:
 I'm from Brazil.
 
-I started in the world of programming in 2012, where I started a technical course in computer science integrated with high school. After graduating from high school, I started my degree in acoustic engineering. I am currently in my final year of college.
+I started in the world of programming in 2012, where I started a technical course in computer science integrated with high school.
 
 ## My Interests:
 
